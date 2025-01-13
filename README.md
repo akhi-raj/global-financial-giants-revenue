@@ -19,16 +19,14 @@ This project analyzes the top global financial giants by revenue for 2024, provi
    - **Top Companies by Assets:** Highlight the leaders in asset holdings.  
    - **Industry-Wise Revenue:** Analyze revenue distribution across industries.  
    - **Count of Industry-Wise Companies:** Find the number of companies per industry.  
-   - **Count Headquarters of Major Companies:** Map the geographic distribution of company headquarters.  
+   - **Count Headquarters of Major Companies:** Distribution of company headquarters.  
    - **Revenue by Countries:** Explore revenue trends country-wise.  
-   - **Distribution of Revenue:** Visualize revenue distribution using descriptive statistics.
+   - **Distribution of Revenue:** Visualize revenue.
 
 3. **Tools Used**  
    - **Python**  
      - **Pandas:** For data cleaning and manipulation.  
      - **Matplotlib:** For creating static visualizations.  
-   - **Power BI:** To develop an interactive dashboard for in-depth exploration.
-
 
 ## Dataset  
 The dataset used in this project is publicly available on Kaggle:  
